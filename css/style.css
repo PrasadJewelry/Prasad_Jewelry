@@ -232,8 +232,7 @@ a:hover {
 	float: left;
 	cursor: pointer;
 	text-indent: -9999em;
-	background: url(../images/logo.png) no-repeat;
-}
+	}
 
 
 /* Navigation
@@ -1367,7 +1366,7 @@ h1 {
 @media (-webkit-min-device-pixel-ratio: 2), (min-reso#lution: 192dpi) { 
 
 	#logo {
-		background-image: url(../images/logo@2x.png);
+		
 		background-size: cover;
 	}
 
